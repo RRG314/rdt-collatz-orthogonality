@@ -1,7 +1,5 @@
 # Scale-Dependent Decorrelation: RDT vs Collatz
 
-(https://zenodo.org/badge/DOI/10.5281/zenodo.17487651.svg)](https://doi.org/10.5281/zenodo.17487651)
-
 This repository contains the research paper and validation code demonstrating that Recursive Division Tree (RDT) depth and Collatz stopping time are fundamentally independent measures of integer complexity.
 
 ## Paper
